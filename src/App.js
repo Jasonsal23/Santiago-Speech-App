@@ -117,7 +117,7 @@ const DiagramWithWords = ({ image, words }) => (
 function App() {
   return (
     <div className="App">
-      <h1>Santiago</h1>
+      <h1>Juan</h1>
       <DiagramWithWords image={diagram1} words={wordsDiagram1} />
       <DiagramWithWords image={diagram2} words={wordsDiagram2} />
       <DiagramWithWords image={diagram3} words={wordsDiagram3} />
